@@ -1,0 +1,5 @@
+maestro = input("Ingrese el nombre del maestro: ")
+mat = input("Ingrese la unidad de aprendizaje que imparte: ")
+sem = int(input("Ingrese el semestre de la unidad de aprendizaje: "))
+print("Hola ",maestro, "imparte ",mat," que se cursa en ",sem,"semestre")
+input()
